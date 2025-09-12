@@ -232,14 +232,7 @@ O/P: OHOCORPORAT
 Explanation: The index of P in first string is 7, O is 1, R is 6 and T is 11. The largest range is 1 – 11.
 So print the characters of the first string in this inex range i.e. OHOCORPORAT
 
-34. Matrix Diagonal sum
-Given a matrix print the largest of the sums of the two triangles split by diagonal from top right to bottom left
-I/P:
-3 3
-1 2 3
-4 5 6
-7 8 9
-O/P: 38
+
 
 35. Matrix Addition
 Given n integer arrays of different size, find the addititon of numbers represented by the arrays
