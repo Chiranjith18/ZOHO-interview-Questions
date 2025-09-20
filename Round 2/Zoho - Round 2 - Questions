@@ -604,23 +604,7 @@ Output:
        1 5 10 10 5 1
       1 6 15 20 15 6 1
       
-84. Given a two dimensional array which consists of only 0’s and 1’s. Print the matrix without duplication.
-  Ex.  INPUT  :
-    
-    Enter Row Size    :  4
-    Enter column size  :  3
-    Enter the matrix  :
-    1 0 1
-    1 1 0
-    1 1 1
-    1 0 1
-    
-    OUTPUT  :
 
-    Unique Matrix  :
-    1 0 1
-    1 1 0
-    1 1 1
     
 85. Given an array of positive numbers. Print the numbers which have longest continuous range.
   Ex.  INPUT  :  
